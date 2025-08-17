@@ -5,8 +5,8 @@ const Helper = {
     const dataList = [
       {
         path     : "threejs-challange-1",
-        title    : "ThreeJS Challange 1",
-        preview  : "https://pbs.twimg.com/media/Ee8uL-tVoAAeg4H.jpg",
+        title    : "Level Basic — ThreeJS Challange 1",
+        preview  : "thumbnails/1.png",
         Component: Basic3D,
       },
     ];
